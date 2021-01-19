@@ -1,4 +1,4 @@
-# 3D-Vector-objects
+# 3D-Vector-Objects
 3D vector objects in Java.
 
 The program deals with 3D vectors in java. There are three classes in the program. The point class creates a 3D point object. The vector class creates a 3D vector from the point object. The main class implements the two classes in it and has a menu that provides options for different operations on 3D vectors. Following are the operations the can be performed on the vectors:
