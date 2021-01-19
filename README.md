@@ -7,4 +7,4 @@ The program deals with 3D vectors in java. There are three classes in the progra
 - Calculating the difference of two vectors.
 - Calculating dot product of two vectors.
 - Calculating the length of two vectors.
-- Calculating the angle of cosine of two vectors.
+- Calculating the angle of cosine between two vectors.
