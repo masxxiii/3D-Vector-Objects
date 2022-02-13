@@ -29,11 +29,5 @@ public class Point {
         this.z = z;
     }
 
-    //An extra constructor if we want to pass objects
-    public Point(Point points)
-    {
-        this.x = points.x;
-        this.y = points.y;
-        this.z = points.z;
-    }
+
 }
