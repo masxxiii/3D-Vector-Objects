@@ -60,7 +60,8 @@ public class Vector {
     public double angle(Vector vector_input1, Vector vector_input2)
     {
         double mul = vector_input1.mul(vector_input2);
-
+        double length1 = vector_input1.length();
+        double length2 = vector_input2.length();
 
         return Math.acos((mul/(length1*length2)));
     }
