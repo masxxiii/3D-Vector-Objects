@@ -14,7 +14,7 @@ public class Vector {
     //toString method
     public String toString()
     {
-        
+        return String.format("( X - %.2f, Y - %.2f, Z - %.2f )",points.getX(),points.getY(),points.getZ());
     }
 
     //method for finding the length of the vector
